@@ -1,0 +1,1 @@
+1. The datatype of result is string so it is doing string concatenation  
